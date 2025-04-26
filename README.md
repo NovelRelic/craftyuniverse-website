@@ -1,6 +1,6 @@
 # 🌐 CraftyUniverse Website
 
-Dies ist das öffentliche GitHub-Repository für die **offizielle Website** von [CraftyUniverse](https://www.craftyuniverse.de) – unserem Plot-Minecraft-Server (in Entwicklung).  
+Dies ist das öffentliche GitHub-Repository für die **offizielle Website** von [CraftyUniverse](https://craftyuniverse.de) – unserem Plot-Minecraft-Server (in Entwicklung).  
 Hier entsteht der Webauftritt für News, Infos, Community und mehr!
 
 ## 🔧 Projektstatus
